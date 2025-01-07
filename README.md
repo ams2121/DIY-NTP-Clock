@@ -21,6 +21,8 @@ The goal of this project is to have an easy to build clock for kids or just arou
  - A 3d printed case. (see case design)
  - 5V 3A USB power supply
  - (optional) 3d printed battery
+    - https://www.printables.com/model/1047443-cr2430-adapter-to-wire-pigtail
+    - https://www.printables.com/model/725567-fake-cr2032-battery 
  - (optional) Sonoff SNZB-02 temperature and humidity sensor, zigbee
 
 # 3D print the case
