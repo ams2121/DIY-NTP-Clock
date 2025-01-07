@@ -34,6 +34,7 @@ If you are into home automation, you can add this 3d printed battery and sensor 
 
 # Program the microcontroller
 1. write the code
+   - https://www.youtube.com/watch?v=sUzdY9qE3Go 
 2. build the code
 3. set network config
 4. flash the board
